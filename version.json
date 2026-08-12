@@ -5,9 +5,9 @@
     "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-1.0.0.apk"
   },
   "windows": {
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.1.0",
     "minVersion": "1.0.0",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-1.0.0.exe"
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-1.1.0.exe"
   },
-  "notes": "Prva verzija — postavljen sistem za nadogradnju."
+  "notes": "Testna nadogradnja — u naslovu se sada vidi verzija aplikacije."
 }
