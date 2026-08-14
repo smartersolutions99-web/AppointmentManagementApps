@@ -1,13 +1,13 @@
 {
   "android": {
-    "latestVersion": "1.7.0",
-    "minVersion": "1.7.0",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-1.7.0.apk"
+    "latestVersion": "1.8.0",
+    "minVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-1.8.0.apk"
   },
   "windows": {
-    "latestVersion": "1.7.0",
-    "minVersion": "1.7.0",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-1.7.0.exe"
+    "latestVersion": "1.8.0",
+    "minVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-1.8.0.exe"
   },
-  "notes": "Vazna ispravka."
+  "notes": "Nove funkcionalnosti: baksis, sumnjivi termini, statistika klijenta, Excel izvjestaji, support mode za podrsku, pretraga klijenata i sitne popravke."
 }
