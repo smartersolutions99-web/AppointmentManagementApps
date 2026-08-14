@@ -1,13 +1,13 @@
 {
   "android": {
-    "latestVersion": "1.8.1",
+    "latestVersion": "1.8.2",
     "minVersion": "1.0.0",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-1.8.1.apk"
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-1.8.2.apk"
   },
   "windows": {
-    "latestVersion": "1.8.1",
+    "latestVersion": "1.8.2",
     "minVersion": "1.0.0",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-1.8.1.exe"
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-1.8.2.exe"
   },
-  "notes": "Popravka izgleda izbora salona u support modu (kartice) i sitne dorade."
+  "notes": "Prelazak na produkcijski server, stabilnost i sitne popravke."
 }
