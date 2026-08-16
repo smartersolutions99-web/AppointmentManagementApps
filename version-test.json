@@ -1,13 +1,13 @@
 {
   "android": {
-    "latestVersion": "2.0.5",
-    "minVersion": "2.0.5",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-test-2.0.5.apk"
+    "latestVersion": "2.0.6",
+    "minVersion": "2.0.6",
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-test-2.0.6.apk"
   },
   "windows": {
-    "latestVersion": "2.0.5",
-    "minVersion": "2.0.5",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-test-setup-2.0.5.exe"
+    "latestVersion": "2.0.6",
+    "minVersion": "2.0.6",
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-test-setup-2.0.6.exe"
   },
   "notes": "Filters"
 }
