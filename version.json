@@ -1,13 +1,13 @@
 {
   "android": {
-    "latestVersion": "1.8.5",
-    "minVersion": "1.8.5",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-1.8.5.apk"
+    "latestVersion": "2.0.7",
+    "minVersion": "2.0.7",
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/apk/salon-2.0.7.apk"
   },
   "windows": {
-    "latestVersion": "1.8.5",
-    "minVersion": "1.8.5",
-    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-1.8.5.exe"
+    "latestVersion": "2.0.7",
+    "minVersion": "2.0.7",
+    "url": "https://raw.githubusercontent.com/smartersolutions99-web/AppointmentManagementApps/main/windows/salon-setup-2.0.7.exe"
   },
-  "notes": "Reshresh dugme"
+  "notes": "Reshresh dugme i Logo"
 }
